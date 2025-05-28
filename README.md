@@ -26,6 +26,6 @@ A responsive and modern landing page built with HTML and CSS. This project demon
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/landing-page.git
+   git clone https://github.com/himanshukumar-xp/landing-page.git
    cd landing-page
    ```
